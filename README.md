@@ -1,5 +1,5 @@
 # ScamBusters
-THIS BOT IS NOT SELFHOSTED.
+THIS BOT IS NOT SELFHOSTED. <br>
 Discord Bot Fighting Nitro, Steam &amp; other Scammers!
 
 ---
