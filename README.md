@@ -13,7 +13,9 @@ Global-Bans across all Servers where the Bot is used make it possible to fight S
 Upon detecting a blocked url, this bot Bans the member, deleted the last message & adds them into a “bad-user” list. If the User is on another Server using the Bot and they have it enabled, the bot will auto-ban this scamming / compromised user in the other server too, to prevent any more damage.
 
 ## How to invite the bot?
+**Please make sure to set up a logging channel after inviting the bot using s$setlogchannel** <br>
 You can Invite this Bot via one of its public Listings or using the Direct url.
+
 
 #### Listings:
 - https://discordbotlist.com/bots/scambusters
@@ -52,6 +54,7 @@ s$status - Shows the Bo'ts Status like Uptime, Guilds, etc.
 __14.05.2022__
 
 ```
+- Added message informing if no Log channel has been set!
 - Reached 75k Members on 11 Servers. Thank You <3
 - Added a Scam Report Function
 - Changed Design of Important/Public messages like the Ban, Status & Help Message
