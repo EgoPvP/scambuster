@@ -9,9 +9,8 @@ Anything from “Free nitro” to “steam acoount” Scams are covered and many
 
 Global-Bans across all Servers where the Bot is used make it possible to fight Scammers across Discord and help everyone Stay safe!
 
-
-## Support
-If you want to Report Scamming Users, Report new Scam URL's, Have any Question about the bot or anything else, feel free to open an [Issue](https://github.com/EgoPvP/scambuster/issues).
+## How does this work:
+Upon detecting a blocked url, this bot Bans the member, deleted the last message & adds them into a “bad-user” list. If the User is on another Server using the Bot and they have it enabled, the bot will auto-ban this scamming / compromised user in the other server too, to prevent any more damage.
 
 ## How to invite the bot?
 You can Invite this Bot via one of its public Listings or using the Direct url.
@@ -23,9 +22,8 @@ You can Invite this Bot via one of its public Listings or using the Direct url.
 #### Direct Link:
 - https://discord.com/oauth2/authorize?client_id=974367588274556958&permissions=1374389611652&scope=bot
 
-## How does this work:
-Upon detecting a blocked url, this bot Bans the member, deleted the last message & adds them into a “bad-user” list. If the User is on another Server using the Bot and they have it enabled, the bot will auto-ban this scamming / compromised user in the other server too, to prevent any more damage.
-
+## Support
+If you want to Report Scamming Users, Report new Scam URL's, Have any Question about the bot or anything else, feel free to open an [Issue](https://github.com/EgoPvP/scambuster/issues).
 
 ## Commands:
 ### Commands for Server Admins
@@ -48,7 +46,6 @@ s$appeal - Shows info on how to Appeal an Unban.
 s$invite - Shows info on how to invite this Bot.
 
 s$status - Shows the Bo'ts Status like Uptime, Guilds, etc.
-
 
 ## Changelog
 
