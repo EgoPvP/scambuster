@@ -1,7 +1,7 @@
 # ScamBusters
+THIS BOT IS NOT SELFHOSTED.
 Discord Bot Fighting Nitro, Steam &amp; other Scammers!
 
-THIS BOT IS NOT SELFHOSTED.
 ---
 
 Using a list of over 10.000 Blacklisted URL's this Bot scanns all messages send for any of the recognized known Scammer urls.
