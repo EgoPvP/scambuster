@@ -49,6 +49,8 @@ s$invite - Shows info on how to invite this Bot.
 
 s$status - Shows the Bo'ts Status like Uptime, Guilds, etc.
 
+s$help - Shows all Commands
+
 ## Changelog
 
 __15.05.2022__
