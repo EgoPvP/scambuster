@@ -51,13 +51,15 @@ s$status - Shows the Bo'ts Status like Uptime, Guilds, etc.
 
 s$help - Shows all Commands
 
+s$support - Shows info on how to get Support for this bot
+
 ## Changelog
 
 __15.05.2022__
 
 ```
 - Fixxed Permission Detection & Added Bot-Admin Role
-- Fixxed MEssage Deetection 
+- Fixxed Message Deetection 
 ```
 
 __14.05.2022__
