@@ -1,5 +1,4 @@
 # ScamBusters
-THIS BOT IS NOT SELFHOSTED. <br>
 Discord Bot Fighting Nitro, Steam &amp; other Scammers!
 
 ---
@@ -51,6 +50,13 @@ s$invite - Shows info on how to invite this Bot.
 s$status - Shows the Bo'ts Status like Uptime, Guilds, etc.
 
 ## Changelog
+
+__15.05.2022__
+
+```
+- Fixxed Permission Detection & Added Bot-Admin Role
+- Fixxed MEssage Deetection 
+```
 
 __14.05.2022__
 
