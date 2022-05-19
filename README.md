@@ -29,31 +29,44 @@ If you want to Report Scamming Users, Report new Scam URL's, Have any Question a
 
 ## Commands:
 ### Commands for Server Admins
-s$setlogchannel - Sets the Logging Channel
 
-s$scanusers - Starts a manuall scan for bad users (soon!)
+s$settings - Shows your current Bot Settings
 
-s$reportscam - Reports the message you replied to as a Scam.
+s$reportscam - Reports the message, you replied to using this command as a scam!
 
-s$setglobalbans (true/false) - Actives / Deactivates banning bad people on join / when they get detected (Default: yes)
+s$scanusers (WIP) - Scans this Server for known bad users
 
-s$setglobalbanthres - Sets the number of times a User has to be caught to be banned on Global-Ban events (Default: 1)
+s$setlogchannel - Sets the Bots logging channel
+
+s$setglobalbans (true/false) - Actives / Deactivates banning bad people on join / when they get detected on other servers (Default: yes)
+
+s$setglobalbanthres (number) - Sets the number of times a User has to be caught to be banned on Global-Ban events (Default: 1)
 
 ### Commands for Everyone
 
-s$checkuser - Checks if User is in the Global-Blacklist
+s$status - Shows the Bot Status
 
-s$appeal - Shows info on how to Appeal an Unban.
+s$invite - Shows how to invite this Bot
 
-s$invite - Shows info on how to invite this Bot.
+s$support - Shows how to get Support for this Bot
 
-s$status - Shows the Bo'ts Status like Uptime, Guilds, etc.
+s$donate - Shows Info on how to Support the Bot creators
 
-s$help - Shows all Commands
+s$appeal - Shows to to appeal an unban
 
-s$support - Shows info on how to get Support for this bot
+s$checkuser - Checks if a specified user is Bad
 
 ## Changelog
+
+__19.05.2022__
+
+```
+- Added - s$support , s$donate , s$settings  - Commands
+- Fixxed a bug where missing Permission caused the Bot to Crash
+- s$status now shows the amount of blocked URLs
+- Changed some Command designs
+- Added a Logging check to remind you of setting it up properly 
+```
 
 __15.05.2022__
 
