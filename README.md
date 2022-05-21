@@ -58,6 +58,15 @@ s$checkuser - Checks if a specified user is Bad
 
 ## Changelog
 
+__21.05.2022__
+
+```
+- Thanks for 83k+ Members across 69+ Servers!
+- Several Permission checks Implemented
+- Fixxed Ban-On-Join Bug
+- Added Regular Settings & Database Update Checker
+```
+
 __19.05.2022__
 
 ```
