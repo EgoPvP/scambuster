@@ -18,11 +18,12 @@ You can Invite this Bot via one of its public Listings or using the Direct url.
 
 
 #### Listings:
-- https://discordbotlist.com/bots/scambusters
-- https://discord.bots.gg/bots/974367588274556958
+- [https://top.gg/bot/974367588274556958](https://top.gg/bot/974367588274556958)
+- [https://discordbotlist.com/bots/scambusters](https://discordbotlist.com/bots/scambusters)
+- [https://discord.bots.gg/bots/974367588274556958](https://discord.bots.gg/bots/974367588274556958)
 
 #### Direct Link:
-- https://discord.com/oauth2/authorize?client_id=974367588274556958&permissions=1374389611652&scope=bot
+- [https://discord.com/oauth2/authorize?client_id=974367588274556958&permissions=1374389611652&scope=bot](https://discord.com/oauth2/authorize?client_id=974367588274556958&permissions=1374389611652&scope=bot)
 
 ## Support
 If you want to Report Scamming Users, Report new Scam URL's, Have any Question about the bot or anything else, feel free to open an [Issue](https://github.com/EgoPvP/scambuster/issues).
@@ -57,6 +58,10 @@ s$appeal - Shows to to appeal an unban
 s$checkuser - Checks if a specified user is Bad
 
 ## Changelog
+__22.05.2022__
+```
+- Discord messaged us about Bot Verification. If you cant add the Bot because its in 100 Servers, im really sorry. I hope it gets verified soon!
+```
 
 __21.05.2022__
 
@@ -96,24 +101,4 @@ __13.02.2022__
 ```
 - Bot went public
 ```
-
-
-## Donate
-If you like my work, you can Support us!
-
-[Tebex (Paypal & co.)](https://shop.egorp.net/package/4667135)
-
-BTC - bc1qn5d5hvecydfcr7xd65z2nun7a8t6wvgc9yuuxr <br>
-WBTC - 0x411BFd32d22F2D04A40C2edFE8f5fb8E9Dc80412 <br>
-ETH - 0x411BFd32d22F2D04A40C2edFE8f5fb8E9Dc80412 <br>
-ZEC - t1XyjYpkBZpvTSD41toPWdzmr2UTq3KKHRT <br>
-DASH - Xs9YwqZbyaNHWJcDF1Tgn1jQJqd8XHzLyh <br>
-LTC - LMsnx3kVYAtKXJoERq51PZ367wihVmjxns <br>
-DOGE - DHemyecWnQ55uwnRGzhVmoqwPSY1zA32Gs <br>
-
-## FiveM Script store
-
-If you are looking for FiveM Scripts, check out our Custom Script Store: <br>
-[shop.egorp.net](https://shop.egorp.net/)
-
 
