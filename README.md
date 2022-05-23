@@ -19,6 +19,9 @@ Upon detecting a blocked url, this bot Bans the member, deleted the last message
 **Please make sure to set up a logging channel after inviting the bot using s$setlogchannel** <br>
 You can Invite this Bot via one of its public Listings or using the Direct url.
 
+## Official Twitter
+We now have an Official Twitter Account where we post all sort of Info, Updates & News about the Bot
+- https://twitter.com/scambuster_bot
 
 #### Listings:
 - https://top.gg/bot/974367588274556958
