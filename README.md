@@ -1,3 +1,6 @@
+### Discord messaged us about Bot Verification. If you cant add the Bot because its in 100 Servers, im really sorry. I hope it gets verified soon!
+
+
 # ScamBusters
 Discord Bot Fighting Nitro, Steam &amp; other Scammers!
 
@@ -18,12 +21,13 @@ You can Invite this Bot via one of its public Listings or using the Direct url.
 
 
 #### Listings:
-- [https://top.gg/bot/974367588274556958](https://top.gg/bot/974367588274556958)
-- [https://discordbotlist.com/bots/scambusters](https://discordbotlist.com/bots/scambusters)
-- [https://discord.bots.gg/bots/974367588274556958](https://discord.bots.gg/bots/974367588274556958)
+- https://top.gg/bot/974367588274556958
+- https://discordbotlist.com/bots/scambusters
+- https://discord.bots.gg/bots/974367588274556958
+
 
 #### Direct Link:
-- [https://discord.com/oauth2/authorize?client_id=974367588274556958&permissions=1374389611652&scope=bot](https://discord.com/oauth2/authorize?client_id=974367588274556958&permissions=1374389611652&scope=bot)
+- https://discord.com/oauth2/authorize?client_id=974367588274556958&permissions=1374389611652&scope=bot
 
 ## Support
 If you want to Report Scamming Users, Report new Scam URL's, Have any Question about the bot or anything else, feel free to open an [Issue](https://github.com/EgoPvP/scambuster/issues).
@@ -57,7 +61,14 @@ s$appeal - Shows to to appeal an unban
 
 s$checkuser - Checks if a specified user is Bad
 
+s$checkurl - Check if a URL is alredy blacklisted or not
+
 ## Changelog
+__24.05.2022__
+```
+- We now have an official Twitter (https://twitter.com/scambuster_bot) account, 
+where we will post any updates regarding the ScamBuster Bot. 
+```
 __22.05.2022__
 ```
 - Discord messaged us about Bot Verification. If you cant add the Bot because its in 100 Servers, im really sorry. I hope it gets verified soon!
