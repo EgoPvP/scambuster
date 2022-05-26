@@ -67,6 +67,13 @@ s$checkuser - Checks if a specified user is Bad
 s$checkurl - Check if a URL is alredy blacklisted or not
 
 ## Changelog
+
+__26.05.2022__
+```
+- Created another Bot Account to Protect more Servers whilst not Verified
+- Added more Detailed Error Messages
+```
+
 __24.05.2022__
 ```
 - We now have an official Twitter (https://twitter.com/scambuster_bot) account, 
