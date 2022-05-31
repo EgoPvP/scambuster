@@ -68,6 +68,11 @@ s$checkurl - Check if a URL is alredy blacklisted or not
 
 ## Changelog
 
+__31.05.2022__
+```
+- Fixxed a Bug which caused the Bot to crash if people removed its permissions
+```
+
 __26.05.2022__
 ```
 - Created another Bot Account to Protect more Servers whilst not Verified
